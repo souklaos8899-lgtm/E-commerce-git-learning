@@ -1,1 +1,1 @@
-old config data
+Dev A แก้ไฟล์นี้
